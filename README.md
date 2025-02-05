@@ -1,4 +1,4 @@
-##Project Card QR Tailwind Css V4
+# Project Card QR Tailwind Css V4
 
 
 I developed this project with Tailwind CSS v4 It is a simple card that shows us a QR code.
